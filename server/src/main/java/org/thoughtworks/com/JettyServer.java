@@ -2,8 +2,6 @@ package org.thoughtworks.com;
 
 import org.mortbay.jetty.Server;
 import org.mortbay.jetty.servlet.ServletHandler;
-import org.mortbay.thread.QueuedThreadPool;
-import org.mortbay.thread.ThreadPool;
 import org.mortbay.util.IO;
 
 /**
